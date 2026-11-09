@@ -1,0 +1,15 @@
+.dist
+.env
+
+.vscode/
+.idea
+
+bin
+build
+dist
+
+cover.out
+mongodb_exporter
+.DS_Store
+
+CLAUDE.md
